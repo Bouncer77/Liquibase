@@ -1,5 +1,12 @@
-# SpringDataJpa
-Simple Spring Data JPA project with Postgres connection
+# Liquibase
+Репозиторий Liquibase сделан на основе Simple Spring Data JPA project with Postgres connection
+
+[Spring Data JPA](https://github.com/Bouncer77/SpringDataJpa)
+
+# Что такое Liquibase?
+
+Liquibase — это библиотека с открытым исходным кодом для отслеживания, управления и
+применения изменений схемы базы данных. Является аналогом Git для баз данных.
 
 # Почему именно Spring Data JPA?
 
