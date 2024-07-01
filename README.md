@@ -10,7 +10,7 @@ Liquibase — это библиотека с открытым исходным �
 
 # Видео инструкция
 
-[![Liquibase](https://img.youtube.com/vi/Q3VmWZBgikY&t/0.jpg)](https://www.youtube.com/watch?v=Q3VmWZBgikY&t)
+[![Liquibase](https://img.youtube.com/vi/Q3VmWZBgikY/0.jpg)](https://youtu.be/Q3VmWZBgikY)
 
 # Почему именно Spring Data JPA?
 
